@@ -144,6 +144,20 @@ hr {
     color: #AEAEAE;
 }
 
+#clock-hr {
+    width: 94.83px;
+    height: 29.38px;
+    background-color: #FFE4E8;
+    border-radius: 14.6913px;
+    color: #FF4A60;
+
+}
+
+.fa-clock {
+    padding-top: 8%;
+    padding-left: 5px;
+}
+
 
 
 /* ---------------------
